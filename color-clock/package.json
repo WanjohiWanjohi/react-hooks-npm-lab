@@ -4,11 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo 'Hello World!'"
+    "test": "echo 'Hello World!'",
+    "start": "serve"
   },
   "author": "wamuyu",
   "license": "ISC",
   "dependencies": {
-    "date-fns": "^2.28.0"
+    "date-fns": "^2.28.0",
+    "serve": "^14.0.0"
   }
 }
